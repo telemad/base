@@ -1,2 +1,2 @@
-# base
-Madeline Base Script
+# Command
+Command Script
